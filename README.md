@@ -18,11 +18,18 @@ Each notebook in this repository is structured to not only demonstrate coding sk
 - Emphasizes hands-on modeling, optimization, and evaluation across diverse datasets.
 
 ### 3. Ensemble Learning on Modified MNIST with Dimensionality Reduction and Clustering
-**[`03_ml_mnist_olivetti.ipynb.ipynb`](./03_ml_mnist_olivetti.ipynb)**
+**[`03_ml_mnist_olivetti.ipynb`](./03_ml_mnist_olivetti.ipynb)**
 - Trains various classifiers on modified versions of the MNIST dataset.
 - Uses ensemble methods to boost classification performance.
 - Implements dimensionality reduction for faster training and effective visualization.
 - Explores clustering techniques on the Olivetti face dataset.
+
+### 4. Deep Neural Network for Image Classification and Analysis
+**[`04_ml_deep_neural_networks.ipynb`](./04_ml_deep_neural_networks.ipynb)**
+- Comprehensive exploration of deep learning techniques using TensorFlow and Keras for image classification tasks.
+- Includes a custom layer implementation for Layer Normalization, compared against TensorFlow's built-in layer normalization.
+- Features an in-depth, custom training loop for the Fashion MNIST dataset, demonstrating advanced techniques such as different optimizers for various layers.
+- Employs various neural network architectures and hyperparameters to optimize model performance on image data.
 
 ## How to Use This Repository
 
