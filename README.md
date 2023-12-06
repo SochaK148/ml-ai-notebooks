@@ -31,6 +31,13 @@ Each notebook in this repository is structured to not only demonstrate coding sk
 - Features an in-depth, custom training loop for the Fashion MNIST dataset, demonstrating advanced techniques such as different optimizers for various layers.
 - Employs various neural network architectures and hyperparameters to optimize model performance on image data.
 
+### 5. Movie Review Analysis Using CNNs and RNNs
+**[`05_ml_cnn_rnn.ipynb`](./05_ml_cnn_rnn.ipynb)**
+- Integrates TensorFlow's data pipeline to process and analyze the Large Movie Review Dataset.
+- Implements two distinct neural network architectures: Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) for sentiment analysis.
+- Demonstrates the use of embedding layers, 1D convolutions, and different RNN cells (LSTM/GRU) to understand text data.
+- Compares the performance, training speed, and efficiency of both models on the same dataset.
+
 ## How to Use This Repository
 
 To get the most out of these notebooks:
